@@ -1,11 +1,11 @@
 // src/App.js
 import React from 'react';
-import CompanyInfo from './companyinfo';
+import ShoppingCart from './ShopingCart';
 
 function App() {
     return (
         <div>
-            <CompanyInfo />
+            <ShoppingCart />
         </div>
     );
 }
