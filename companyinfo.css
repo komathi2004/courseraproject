@@ -1,0 +1,19 @@
+/* src/CompanyInfo.css */
+.company-info {
+    background-image: url('images.jpeg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    color: white; /* Text color */
+    padding: 50px; /* Padding around the content */
+    text-align: center; /* Center the text */
+}
+
+.get-started-button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #007BFF; /* Button color */
+    color: white; /* Button text color */
+    text-decoration: none; /* Remove underline */
+    border-radius: 5px; /* Rounded corners */
+}
